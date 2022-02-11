@@ -1,0 +1,33 @@
+div {
+    margin: auto;
+}
+
+.arrow-up-cream {
+    margin-bottom: -100px;
+    width: 0;
+    height: 0;
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent;
+
+    border-bottom: 200px solid #FFEECF;
+}
+
+.arrow-up-chocolate {
+    margin-bottom: -100px;
+    width: 0;
+    height: 0;
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent;
+
+    border-bottom: 200px solid #F5C181;
+}
+
+.arrow-up-green {
+    margin-bottom: -100px;
+    width: 0;
+    height: 0;
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent;
+
+    border-bottom: 200px solid #00A79D;
+}
